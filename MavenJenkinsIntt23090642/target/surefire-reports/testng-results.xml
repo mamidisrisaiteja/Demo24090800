@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MavenJenkinsIntt23090642.MavenJenkinsIntt23090642.Test1" duration-ms="13235" started-at="2019-09-23T07:25:36Z" finished-at="2019-09-23T07:25:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13235" started-at="2019-09-23T07:25:36Z" finished-at="2019-09-23T07:25:49Z">
+      <class name="MavenJenkinsIntt23090642.MavenJenkinsIntt23090642.Test1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:MavenJenkinsIntt23090642.MavenJenkinsIntt23090642.Test1@1417077]" name="test1" duration-ms="13209" started-at="2019-09-23T07:25:36Z" finished-at="2019-09-23T07:25:49Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
